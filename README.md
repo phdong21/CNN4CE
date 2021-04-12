@@ -8,6 +8,6 @@ Channel data generation:
 2. Use channel_data_generation.m to generate multiple channel realizations under each channel statistic.
 
 Channel estimation:
-1. Use CNN_2bands_UMi_training.py to train the CNN and save model.
-2. Use CNN_2bands_UMi_further_training.py to further train the CNN based on the saved model.
-3. Use CNN_2bands_UMi_testing.py to test the performance of the trained CNN.
+1. Use SF_CNN_2fre_train.py to train the CNN and save model.
+2. Use SF_CNN_2fre_train_further.py to further train the CNN based on the saved model.
+3. Use SF_CNN_2fre_test.py to test the performance of the trained CNN.
