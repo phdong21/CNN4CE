@@ -123,7 +123,7 @@ print(H_test.shape, H_test_noisy.shape)
 print(((H_test)**2).mean())
 
 K=3
-input_dim=(Nr_beam,Nt_beam,2*fre)
+input_dim=(Nr,Nt,2*fre)
 model = Sequential()
 model.add(Convolution2D(filters=64, kernel_size=(K,K), padding='Same', activation='relu', input_shape=input_dim))
 model.add(normalization.BatchNormalization())
