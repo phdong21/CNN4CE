@@ -23,3 +23,13 @@ Channel estimation:
        (2) Use SFT_CNN_2fre2time_train_further.py to further train the CNN based on the saved model.
 
        (3) Use SFT_CNN_2fre2time_test.py to test the performance of the trained CNN.
+       
+3. SPR-CNN
+
+       (1) Use SPR_CNN1_train.py to train the SPR-CNN1 and save model.
+
+       (2) Use SPR_CNN1_train_further.py to further train the SPR-CNN1 based on the saved model.
+
+       (3) Use SPR_CNN1_test.py to test the performance of the trained SPR-CNN1.
+       
+       (4) SPR-CNN2, 3, and 4 can be trained and tested similarly.
