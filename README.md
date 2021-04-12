@@ -10,16 +10,16 @@ Channel data generation:
 Channel estimation:
 1. SF-CNN
 
-              (1) Use SF_CNN_2fre_train.py to train the CNN and save model.
+       (1) Use SF_CNN_2fre_train.py to train the CNN and save model.
 
-  (2) Use SF_CNN_2fre_train_further.py to further train the CNN based on the saved model.
+       (2) Use SF_CNN_2fre_train_further.py to further train the CNN based on the saved model.
 
-  (3) Use SF_CNN_2fre_test.py to test the performance of the trained CNN.
+       (3) Use SF_CNN_2fre_test.py to test the performance of the trained CNN.
 
 2. SFT-CNN
 
-  (1) Use SFT_CNN_2fre2time_train.py to train the CNN and save model.
+       (1) Use SFT_CNN_2fre2time_train.py to train the CNN and save model.
 
-  (2) Use SFT_CNN_2fre2time_train_further.py to further train the CNN based on the saved model.
+       (2) Use SFT_CNN_2fre2time_train_further.py to further train the CNN based on the saved model.
 
-  (3) Use SFT_CNN_2fre2time_test.py to test the performance of the trained CNN.
+       (3) Use SFT_CNN_2fre2time_test.py to test the performance of the trained CNN.
