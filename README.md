@@ -1,7 +1,5 @@
 # CNN4CE
-Source codes of the article: P. Dong, H. Zhang, G. Y. Li, I. Gaspar, and N. N. Alizadeh, “Deep CNN-based channel estimation for mmWave massive MIMO systems,” IEEE J. Sel. Topics Signal Process., vol. 13, no. 5, pp. 989–1000, Sep. 2019.
-
-Please cite this paper when using the codes.
+Source codes of the article: P. Dong, H. Zhang, G. Y. Li, I. S. Gaspar and N. NaderiAlizadeh, “Deep CNN-based channel estimation for mmWave massive MIMO systems,” IEEE J. Sel. Topics Signal Process., vol. 13, no. 5, pp. 989–1000, Sep. 2019. Please cite this paper when using the codes.
 
 This folder contains codes for channel data generation executed in MATLAB and codes for channel estimation executed in Python. 
 
