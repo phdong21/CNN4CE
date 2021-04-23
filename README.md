@@ -5,7 +5,8 @@ This folder contains codes for channel data generation (.m) and channel estimati
 
 Channel data generation:
 1. Use channel_statistic_generation.m to generate multiple channel statistics.
-2. Use channel_data_generation.m to generate multiple channel realizations under each channel statistic.
+2. Use MIMO_channel_3GPP_multi_fre.m to generate datasets for SF-CNN.
+3. Use MIMO_channel_3GPP_multi_fre_time.m to generate datasets for SFT-CNN and SPR-CNN.
 
 Channel estimation:
 1. SF-CNN
