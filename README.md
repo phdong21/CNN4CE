@@ -1,7 +1,7 @@
 # CNN4CE
 Source codes of the article "Deep CNN-Based Channel Estimation for mmWave Massive MIMO Systems" in IEEE JSTSP
 
-This folder contains codes for channel data generation executed in MATLAB and codes for channel estimation executed in P. 
+This folder contains codes for channel data generation executed in MATLAB and codes for channel estimation executed in Python. 
 
 Channel data generation:
 1. Use channel_statistic_generation.m to generate multiple channel statistics.
