@@ -7,6 +7,7 @@ Channel data generation:
 1. Use channel_statistic_generation.m to generate multiple channel statistics.
 2. Use MIMO_channel_3GPP_multi_fre.m to generate channel data for SF-CNN.
 3. Use MIMO_channel_3GPP_multi_fre_time.m to generate channel data for SFT-CNN and SPR-CNN.
+Hints: For Release R2018b and beyond, use 5G Toolbox and "nrCDLChannel" instead. For more information, please refer to https://www.mathworks.com/matlabcentral/fileexchange/61585-lte-system-toolbox-5g-library and https://www.mathworks.com/products/5g.html
 
 Channel estimation:
 1. SF-CNN
